@@ -1,0 +1,71 @@
+12-07-2016 16:04:57	This log contains information about the import schema operation into project 'GalleryDB' on computer 'IRIS-CSG-520' by user 'Administrator'.
+12-07-2016 16:04:57	Import of database schema has started.
+12-07-2016 16:05:04	Gathering database options
+12-07-2016 16:05:04	Gathering users
+12-07-2016 16:05:04	Gathering roles
+12-07-2016 16:05:04	Gathering application roles
+12-07-2016 16:05:04	Gathering role memberships
+12-07-2016 16:05:04	Gathering filegroups
+12-07-2016 16:05:04	Gathering full-text catalogs
+12-07-2016 16:05:04	Gathering assemblies
+12-07-2016 16:05:04	Gathering certificates
+12-07-2016 16:05:04	Gathering asymmetric keys
+12-07-2016 16:05:04	Gathering symmetric keys
+12-07-2016 16:05:04	Gathering encrypted symmetric keys
+12-07-2016 16:05:04	Gathering schemas
+12-07-2016 16:05:04	Gathering XML schema collections
+12-07-2016 16:05:04	Gathering user-defined data types
+12-07-2016 16:05:04	Gathering user-defined types
+12-07-2016 16:05:04	Gathering table types
+12-07-2016 16:05:04	Gathering unique keys for table types
+12-07-2016 16:05:04	Gathering primary keys for table types
+12-07-2016 16:05:04	Gathering check constraints for table types
+12-07-2016 16:05:04	Gathering default constraints for table types
+12-07-2016 16:05:04	Gathering partition functions
+12-07-2016 16:05:04	Gathering partition schemes
+12-07-2016 16:05:04	Gathering functions
+12-07-2016 16:05:04	Gathering encrypted functions
+12-07-2016 16:05:04	Gathering aggregates
+12-07-2016 16:05:04	Gathering procedures
+12-07-2016 16:05:04	Gathering encrypted procedures
+12-07-2016 16:05:04	Gathering tables
+12-07-2016 16:05:04	Gathering primary keys
+12-07-2016 16:05:05	Gathering unique constraints
+12-07-2016 16:05:05	Gathering foreign keys
+12-07-2016 16:05:05	Gathering default constraints
+12-07-2016 16:05:05	Gathering check constraints
+12-07-2016 16:05:05	Gathering views
+12-07-2016 16:05:05	Gathering encrypted views
+12-07-2016 16:05:05	Gathering indexes
+12-07-2016 16:05:05	Gathering statistics
+12-07-2016 16:05:05	Gathering full-text index stoplists
+12-07-2016 16:05:05	Gathering full-text indexes
+12-07-2016 16:05:05	Gathering spatial indexes
+12-07-2016 16:05:05	Gathering XML indexes
+12-07-2016 16:05:05	Gathering encrypted triggers
+12-07-2016 16:05:05	Gathering triggers
+12-07-2016 16:05:05	Gathering encrypted and clr ddl triggers
+12-07-2016 16:05:05	Gathering ddl triggers
+12-07-2016 16:05:05	Gathering synonyms
+12-07-2016 16:05:05	Gathering defaults
+12-07-2016 16:05:05	Gathering data constraint uddt bindings
+12-07-2016 16:05:05	Gathering rules
+12-07-2016 16:05:05	Gathering data constraint uddt bindings
+12-07-2016 16:05:05	Gathering message types
+12-07-2016 16:05:05	Gathering queues
+12-07-2016 16:05:05	Gathering contracts
+12-07-2016 16:05:05	Gathering services
+12-07-2016 16:05:05	Gathering event notifications
+12-07-2016 16:05:05	Gathering remote service bindings
+12-07-2016 16:05:05	Gathering broker priorities
+12-07-2016 16:05:05	Gathering signatures
+12-07-2016 16:05:05	Gathering data compression options
+12-07-2016 16:05:05	Gathering extended properties
+12-07-2016 16:05:05	Gathering credentials
+12-07-2016 16:05:05	Gathering logins
+12-07-2016 16:05:05	Gathering server audits
+12-07-2016 16:05:07	Scanning project for duplicate elements
+12-07-2016 16:05:07	Finished duplicate element processing
+12-07-2016 16:05:07	Finished importing database.
+12-07-2016 16:05:07	A summary of the import was saved to the following location: C:\Varun\Gallery\Code\Gallery\GalleryDB\Import Schema Logs\GalleryDB_20160712103457.log
+12-07-2016 16:05:08	Click Finish to continue...
